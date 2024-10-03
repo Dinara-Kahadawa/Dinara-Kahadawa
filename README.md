@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced Python techniques and Power BI visualizations.
 - 💞️ I’m looking to collaborate on data science projects and Power BI dashboards
 - 📫 How to reach me:
-  [LinkedIn]-(https://www.linkedin.com/in/dinara-kahadawa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Beb93YGyeSdKN0yRKkT1hzA%3D%3D)
+  [LinkedIn](https://www.linkedin.com/in/dinara-kahadawa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Beb93YGyeSdKN0yRKkT1hzA%3D%3D)
 
 <!---
 Dinara-Kahadawa/Dinara-Kahadawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
